@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "istream": "cpp",
+        "__verbose_abort": "cpp",
+        "__config": "cpp"
+    }
+}
